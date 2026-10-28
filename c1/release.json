@@ -1,4 +1,18 @@
 {
+  "staging": {
+    "core": "88a56e877659efef0c972918b605583fb1e94246",
+    "site": "88a56e877659efef0c972918b605583fb1e94246",
+    "files": [
+      "global.min.js"
+    ],
+    "pages": {
+      "glp-1.min.js": [
+        "/glp-1"
+      ]
+    },
+    "src": "76417ff",
+    "at": "2026-10-28T17:29:53Z"
+  },
   "prod": {
     "core": "bb35e1564e283322c160b111605d05c58206a500",
     "site": "bb35e1564e283322c160b111605d05c58206a500",
