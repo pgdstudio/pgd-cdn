@@ -1,0 +1,16 @@
+{
+  "prod": {
+    "core": "bb35e1564e283322c160b111605d05c58206a500",
+    "site": "bb35e1564e283322c160b111605d05c58206a500",
+    "files": [
+      "global.min.js"
+    ],
+    "pages": {
+      "glp-1.min.js": [
+        "/glp-1"
+      ]
+    },
+    "src": "carried-over",
+    "at": "2026-10-28T17:29:37Z"
+  }
+}
